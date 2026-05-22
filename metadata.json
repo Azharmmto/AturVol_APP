@@ -1,0 +1,6 @@
+{
+  "name": "AturVol",
+  "description": "Sleek, native Android volume manager with an elegant, customizable floating edge-panel control for instant, screen-wide audio adjustments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
